@@ -1,4 +1,4 @@
-# us_insurance_costs_analysis
+# US-Medical-Insurance-Costs
 Insurance costs analysis
 
 This is a superficial analysis of the data about the medical insurance costs in the United States. 
